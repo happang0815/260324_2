@@ -1,2 +1,2 @@
 # git 연습 #
--github에서 수정함
+- github에서 수정함
